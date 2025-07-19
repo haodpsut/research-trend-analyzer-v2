@@ -1,0 +1,6 @@
+{
+  "name": "Research Trend Analyzer v2",
+  "description": "An AI-powered application to analyze research trends in fields like AI, Cybersecurity, and Networking. It helps identify prominent keywords, discover recent papers, and brainstorm novel research titles.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
